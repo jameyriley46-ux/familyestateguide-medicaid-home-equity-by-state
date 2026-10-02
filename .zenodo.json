@@ -1,0 +1,31 @@
+{
+  "upload_type": "dataset",
+  "title": "Medicaid Home Equity and Estate Recovery Reach by State: Senior Home Values vs. the 2026 Federal Limits",
+  "version": "1.0.0",
+  "description": "<p>For 50 states + DC: how each state defines the 'estate' Medicaid can recover from (FEG statute research with confidence codes) and how senior-owned home values (ACS 2024 PUMS) compare with the 2026 federal home-equity limits of $752,000 and $1,130,000.</p><p>Live page: <a href=\"https://familyestateguide.com/estate-planning-data/medicaid-home-equity-by-state/\">https://familyestateguide.com/estate-planning-data/medicaid-home-equity-by-state/</a>. Published by Family Estate Guide.</p><p>Rights review: Removed home_equity_limit_tier, home_equity_limit_2026, limit_note and median_as_pct_of_limit. The state-by-state limit election in the live page was taken from KFF's 2025 Medicaid eligibility survey table and Justice in Aging's 2026 list (both copyrighted, no open license), and the official CMS documents could not be retrieved to confirm it. Columns that only use the federal $752,000 / $1,130,000 thresholds are kept. The live page's citations to Justice in Aging and MassHealth in one note (Massachusetts effective date) are kept as citations only; no JIA data is reproduced.</p><p>Not legal, tax, financial or medical advice. Figures are estimates with sampling error; legal rules change. Verify anything important with the original source or a qualified professional.</p>",
+  "creators": [
+    {
+      "name": "Family Estate Guide",
+      "affiliation": "Family Estate Guide"
+    }
+  ],
+  "access_right": "open",
+  "license": "cc-by-4.0",
+  "keywords": [
+    "Medicaid",
+    "estate recovery",
+    "home equity limit",
+    "long-term care",
+    "senior homeowners",
+    "PUMS",
+    "elder law",
+    "state law"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "https://familyestateguide.com/estate-planning-data/medicaid-home-equity-by-state/",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    }
+  ]
+}

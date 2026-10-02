@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: If you use this dataset, please cite it as below and link to https://familyestateguide.com/estate-planning-data/medicaid-home-equity-by-state/
+type: dataset
+title: 'Medicaid Home Equity and Estate Recovery Reach by State: Senior Home Values vs. the 2026 Federal Limits'
+abstract: 'For 50 states + DC: how each state defines the ''estate'' Medicaid can recover from (FEG statute research with confidence codes) and how senior-owned home values (ACS 2024 PUMS) compare with the 2026 federal home-equity limits of $752,000 and $1,130,000.'
+authors:
+- name: Family Estate Guide
+  website: https://familyestateguide.com
+version: 1.0.0
+date-released: '2026-10-02'
+url: https://familyestateguide.com/estate-planning-data/medicaid-home-equity-by-state/
+repository-code: https://github.com/jameyriley46-ux/familyestateguide-medicaid-home-equity-by-state
+license: CC-BY-4.0
+keywords:
+- Medicaid
+- estate recovery
+- home equity limit
+- long-term care
+- senior homeowners
+- PUMS
+- elder law
+- state law
